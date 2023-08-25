@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! 👋</h1>
+<h1 align="center">Hello There! I'm Gold87! 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Gold872<br><br>🏫 High school computer science student<br><br>💻 Head Programmer for an FRC team<br><br>📚 Creating intended features since December 2020</p>
+<p align="left">🏫 High school computer science student<br><br>💻 Head Programmer for an FRC team<br><br>📚 Creating intended features since December 2020</p>
 
 ###
 
@@ -52,7 +52,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gold872&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gold872&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gold872&locale=en&hide_title=false&layout=donut&card_width=320&langs_count=5&theme=github_dark&exclude_repo=gold872.github.io&hide_border=true&order=2&size_weight=0.5&count_weight=0.5" height="200" alt="languages graph"  />
 </div>
 
 ###
