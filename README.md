@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! I'm Gold87! 👋</h1>
+<h1 align="center">Hello There! I'm Nadav! 👋</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🏫 High school computer science student<br><br>💻 Head Programmer for an FRC team<br><br>📚 Creating intended features since December 2020</p>
+<p align="left">🏫 High school computer science student<br><br>💻 Head Programmer for FRC team 353<br><br>📚 Creating intended features since December 2020</p>
 
 ###
 
