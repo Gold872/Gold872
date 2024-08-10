@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🏫 High school computer science student<br><br>💻 Head Programmer for FRC team 353<br><br>📚 Creating intended features since December 2020</p>
+<p align="left">🏫 Computer Engineering student<br><br>💻 Alum of FRC team 353<br><br>📚 Creating intended features since December 2020</p>
 
 ###
 
